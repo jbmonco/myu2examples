@@ -1,0 +1,7 @@
+*  
+*  This is your basic "Hello World" program
+*
+
+PRINT "Hellow World!"
+
+END; * Gratuitous END statement, not needed but it also shows you an inline comment
