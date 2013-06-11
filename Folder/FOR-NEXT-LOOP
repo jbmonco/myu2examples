@@ -1,0 +1,8 @@
+* This is a loop
+
+FOR I = 1 TO 10
+  PRINT "I is equal to ":I
+  
+NEXT I
+
+END
